@@ -3,10 +3,14 @@ Mobile App CP213
 Play Chess with AI (Stockfish)
 - ให้ player เล่น chess กับ AI เลือกระดับความยากได้ ง่าย - กลาง - ยาก
 - สามารถ analysis ได้หลังจบเกม
--ไม่จำเป็นต้องมี animation move
--Board มีบอก chess Notation ด้วย
--ตัวหมากสี ดำ - ขาว
+- ไม่จำเป็นต้องมี animation move
+- Board มีบอก chess Notation ด้วย
+- ตัวหมากสี ดำ - ขาว
 - Time Countdown ไม่จำเป็น
+- Click to Move and Drag to Move
+- castle
+- show recent move
+- draw board
 
 Feature
 - Premove
