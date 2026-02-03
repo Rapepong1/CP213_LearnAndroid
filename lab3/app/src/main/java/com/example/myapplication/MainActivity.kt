@@ -1,6 +1,5 @@
 package com.example.myapplication
 
-import android.app.ListActivity
 import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -35,7 +34,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.lab.LitActivity
 
 
 class MainActivity : ComponentActivity() {

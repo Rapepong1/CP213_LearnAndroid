@@ -15,12 +15,7 @@
         <activity
             android:name=".LitActivity"
             android:exported="false"
-            android:label="@string/title_activity_lit"
-            android:theme="@style/Theme.MyApplication" />
-        <activity
-            android:name=".ListActivity"
-            android:exported="false"
-            android:label="@string/title_activity_list"
+            android:label="@string/title_activity_main2"
             android:theme="@style/Theme.MyApplication" />
         <activity
             android:name=".MainActivity"
